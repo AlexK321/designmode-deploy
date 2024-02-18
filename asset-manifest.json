@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/designmode-deploy/static/css/main.e6c13ad2.css",
-    "main.js": "/designmode-deploy/static/js/main.838750dd.js",
-    "static/js/453.00651a73.chunk.js": "/designmode-deploy/static/js/453.00651a73.chunk.js",
-    "index.html": "/designmode-deploy/index.html",
-    "main.e6c13ad2.css.map": "/designmode-deploy/static/css/main.e6c13ad2.css.map",
-    "main.838750dd.js.map": "/designmode-deploy/static/js/main.838750dd.js.map",
-    "453.00651a73.chunk.js.map": "/designmode-deploy/static/js/453.00651a73.chunk.js.map"
+    "main.css": "/static/css/main.e6c13ad2.css",
+    "main.js": "/static/js/main.08c9b6e6.js",
+    "static/js/453.00651a73.chunk.js": "/static/js/453.00651a73.chunk.js",
+    "index.html": "/index.html",
+    "main.e6c13ad2.css.map": "/static/css/main.e6c13ad2.css.map",
+    "main.08c9b6e6.js.map": "/static/js/main.08c9b6e6.js.map",
+    "453.00651a73.chunk.js.map": "/static/js/453.00651a73.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.838750dd.js"
+    "static/js/main.08c9b6e6.js"
   ]
 }
